@@ -1,0 +1,9 @@
+.git
+.local
+node_modules
+artifacts/api-server/dist
+artifacts/mockup-sandbox
+scripts
+**/*.log
+**/*.map
+**/tsconfig.tsbuildinfo
